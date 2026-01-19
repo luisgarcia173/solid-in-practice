@@ -20,15 +20,8 @@
         <module>05-dip</module>
     </modules>
 
-    <!--modules>
-        <module>01-srp</module>
-        <module>02-ocp</module>
-        <module>03-lsp</module>
-        <module>04-isp</module>
-        <module>05-dip</module>
-    </modules-->
-
     <properties>
+        <java.version>21</java.version>
         <maven.compiler.release>21</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.10.2</junit.version>
