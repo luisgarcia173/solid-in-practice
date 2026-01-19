@@ -1,7 +1,6 @@
 package io.github.luisgarcia173.after.service;
 
 import io.github.luisgarcia173.before.Order;
-import io.github.luisgarcia173.before.OrderItem;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
